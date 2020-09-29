@@ -32,6 +32,7 @@ opencv 0 ->1
 
 # 下載權重 
 
+#### yolov4作者提供之權重
 ! gdown https://drive.google.com/uc?id=1cewMfusmPjYWbrnuJRuKhPMwRe_b9PaT
 
 
